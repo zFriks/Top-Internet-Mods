@@ -1,1 +1,212 @@
-const _0x279c62=_0x469c;(function(_0x1f235e,_0x4dbd5b){const _0xfc7a3a=_0x469c,_0x4791b7=_0x1f235e();while(!![]){try{const _0x46b456=-parseInt(_0xfc7a3a(0x1ec))/0x1+parseInt(_0xfc7a3a(0x254))/0x2*(parseInt(_0xfc7a3a(0x227))/0x3)+parseInt(_0xfc7a3a(0x255))/0x4+-parseInt(_0xfc7a3a(0x21d))/0x5*(parseInt(_0xfc7a3a(0x243))/0x6)+-parseInt(_0xfc7a3a(0x23c))/0x7+parseInt(_0xfc7a3a(0x223))/0x8*(-parseInt(_0xfc7a3a(0x25c))/0x9)+parseInt(_0xfc7a3a(0x247))/0xa;if(_0x46b456===_0x4dbd5b)break;else _0x4791b7['push'](_0x4791b7['shift']());}catch(_0x39911b){_0x4791b7['push'](_0x4791b7['shift']());}}}(_0x1e36,0x41138));function _0x469c(_0x4ff850,_0x27922a){const _0x459844=_0x1e36();return _0x469c=function(_0x3efd68,_0x58ab20){_0x3efd68=_0x3efd68-0x1ea;let _0x1e3663=_0x459844[_0x3efd68];return _0x1e3663;},_0x469c(_0x4ff850,_0x27922a);}const oldRadmirHud={'data':{'hudEl':null,'moneyEl':null,'hpEl':{'value':null,'progress':null},'armourEl':{'value':null,'progress':null},'hungerEl':{'value':null,'progress':null},'breathEl':{'wrapper':null,'value':null,'progress':null},'wanted':{'wrapper':null,'els':[]},'weaponEl':{'ammoEl':null,'icon':null},'server':{'wrapper':null,'image':null},'bonusEl':null,'greenZoneEl':null},'createHud'(_0x2f4b6c){const _0x57ce09=_0x469c;this[_0x57ce09(0x1f1)][_0x57ce09(0x23d)]=_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x233)),this['data'][_0x57ce09(0x234)]=_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x21b)),[this[_0x57ce09(0x1f1)][_0x57ce09(0x20b)]['progress'],this[_0x57ce09(0x1f1)][_0x57ce09(0x20b)][_0x57ce09(0x1f8)]]=[_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x203)),_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x224))],[this[_0x57ce09(0x1f1)][_0x57ce09(0x236)][_0x57ce09(0x1f0)],this['data'][_0x57ce09(0x236)][_0x57ce09(0x1f8)]]=[_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x25d)),_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x23e))],[this[_0x57ce09(0x1f1)][_0x57ce09(0x1f3)][_0x57ce09(0x1f0)],this[_0x57ce09(0x1f1)][_0x57ce09(0x1f3)][_0x57ce09(0x1f8)]]=[_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x263)),_0x2f4b6c['querySelector'](_0x57ce09(0x252))],[this[_0x57ce09(0x1f1)]['breathEl']['wrapper'],this[_0x57ce09(0x1f1)][_0x57ce09(0x259)][_0x57ce09(0x1f0)],this[_0x57ce09(0x1f1)][_0x57ce09(0x259)][_0x57ce09(0x1f8)]]=[_0x2f4b6c['querySelector'](_0x57ce09(0x260)),_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x212)),_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x1ed))],[this[_0x57ce09(0x1f1)]['wanted'][_0x57ce09(0x1f5)],this['data'][_0x57ce09(0x24f)][_0x57ce09(0x1fe)]]=[_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x257)),_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x235))[_0x57ce09(0x24a)]],this[_0x57ce09(0x1f1)]['weaponEl'][_0x57ce09(0x222)]=_0x2f4b6c[_0x57ce09(0x25e)](_0x57ce09(0x258))[_0x57ce09(0x24a)],this[_0x57ce09(0x1f1)]['server'][_0x57ce09(0x1f5)]=_0x2f4b6c['querySelector']('.OLD-RADMIR-logo'),this[_0x57ce09(0x1f1)][_0x57ce09(0x25b)][_0x57ce09(0x24c)]=this[_0x57ce09(0x1f1)][_0x57ce09(0x25b)]['wrapper'][_0x57ce09(0x24a)][0x0],this[_0x57ce09(0x1f1)][_0x57ce09(0x201)]=_0x2f4b6c['querySelector']('.OLD-RADMIR-logo__bonus'),this[_0x57ce09(0x1f1)][_0x57ce09(0x22f)]=_0x2f4b6c['querySelector'](_0x57ce09(0x240)),this['data'][_0x57ce09(0x205)][_0x57ce09(0x25f)]=_0x2f4b6c['querySelector'](_0x57ce09(0x25a)),this[_0x57ce09(0x1f1)][_0x57ce09(0x23d)][_0x57ce09(0x21f)]['transform']=_0x57ce09(0x249)+this[_0x57ce09(0x21a)]()+')',this[_0x57ce09(0x1f1)][_0x57ce09(0x25b)][_0x57ce09(0x1f5)][_0x57ce09(0x21f)][_0x57ce09(0x202)]=_0x57ce09(0x249)+this[_0x57ce09(0x21a)]()+')',this['data'][_0x57ce09(0x22f)][_0x57ce09(0x21f)][_0x57ce09(0x202)]=_0x57ce09(0x249)+this[_0x57ce09(0x21a)]()+')';},'getScale'(){const _0x39814f=_0x469c,{clientWidth:_0x196c1a,clientHeight:_0xb071e4}=document[_0x39814f(0x228)];return(_0x196c1a+_0xb071e4)/(0x780+0x438);},'onInfoChange'(_0x29e750,_0xcdd867){const _0x4d0ed1=_0x469c;(_0x29e750==_0x4d0ed1(0x261)||_0x29e750==_0x4d0ed1(0x21c))&&+_0xcdd867>=0x1&&(this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x23d)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]='');(_0x29e750==_0x4d0ed1(0x261)||_0x29e750=='showBars')&&+_0xcdd867===0x0&&(this['data'][_0x4d0ed1(0x23d)][_0x4d0ed1(0x21f)]['display']=_0x4d0ed1(0x218));_0x29e750=='weapon'&&(this[_0x4d0ed1(0x1f1)]['weaponEl']['icon'][_0x4d0ed1(0x22e)]=window[_0x4d0ed1(0x244)]['weapon'][_0xcdd867]);_0x29e750==='weapon'&&_0xcdd867>=0x10&&(this['data']['weaponEl'][_0x4d0ed1(0x222)][0x0][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]='',this[_0x4d0ed1(0x1f1)]['weaponEl'][_0x4d0ed1(0x222)][0x1][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]='');_0x29e750===_0x4d0ed1(0x231)&&_0xcdd867<0x10&&(this[_0x4d0ed1(0x1f1)]['weaponEl']['ammoEl'][0x0]['style'][_0x4d0ed1(0x1ff)]='none',this['data']['weaponEl']['ammoEl'][0x1]['style'][_0x4d0ed1(0x1ff)]='none');_0x29e750==_0x4d0ed1(0x264)&&(this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x22f)][_0x4d0ed1(0x21f)]['display']='');_0x29e750=='hideGreenZoneTab'&&(this['data'][_0x4d0ed1(0x22f)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]=_0x4d0ed1(0x218));_0x29e750==_0x4d0ed1(0x208)&&(this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x20b)][_0x4d0ed1(0x1f0)]['style'][_0x4d0ed1(0x24e)]=_0xcdd867+'%',this['data']['hpEl'][_0x4d0ed1(0x1f8)][_0x4d0ed1(0x262)]=_0xcdd867);_0x29e750=='armour'&&(this['data'][_0x4d0ed1(0x236)][_0x4d0ed1(0x1f0)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x24e)]=_0xcdd867+'%',this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x236)][_0x4d0ed1(0x1f8)]['innerText']=_0xcdd867);_0x29e750==_0x4d0ed1(0x1f6)&&(this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x1f3)][_0x4d0ed1(0x1f0)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x24e)]=_0xcdd867+'%',this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x1f3)][_0x4d0ed1(0x1f8)][_0x4d0ed1(0x262)]=_0xcdd867);if(_0x29e750==_0x4d0ed1(0x269)){if(_0xcdd867<0x63)this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x259)]['wrapper'][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]='';else this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x259)][_0x4d0ed1(0x1f5)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]=_0x4d0ed1(0x218);this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x259)]['progress'][_0x4d0ed1(0x21f)]['width']=_0xcdd867+'%',this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x259)][_0x4d0ed1(0x1f8)][_0x4d0ed1(0x262)]=_0xcdd867;}_0x29e750==_0x4d0ed1(0x213)&&(this[_0x4d0ed1(0x1f1)]['moneyEl'][_0x4d0ed1(0x229)]=_0xcdd867[_0x4d0ed1(0x1ea)]('DE'));if(_0x29e750==_0x4d0ed1(0x24f)){if(_0xcdd867===0x0&&!oldRadmirConfig[_0x4d0ed1(0x246)]){this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x24f)]['wrapper'][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]=_0x4d0ed1(0x218);return;}this[_0x4d0ed1(0x1f1)]['wanted'][_0x4d0ed1(0x1f5)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]='';for(let _0x2c8133=0x0;_0x2c8133<0x6;_0x2c8133+=0x1){(0x5-_0x2c8133)/_0xcdd867>=0x1||0x5-_0x2c8133==0x0&&_0xcdd867==0x0?(this['data'][_0x4d0ed1(0x24f)][_0x4d0ed1(0x1fe)][_0x2c8133][_0x4d0ed1(0x22e)]=window['oldRadmirConfig'][_0x4d0ed1(0x239)]['inactive_wanted'],this['data'][_0x4d0ed1(0x24f)][_0x4d0ed1(0x1fe)][_0x2c8133][_0x4d0ed1(0x20e)]='OLD-RADMIR-wanted__inactive'):(this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x24f)][_0x4d0ed1(0x1fe)][_0x2c8133][_0x4d0ed1(0x22e)]=window[_0x4d0ed1(0x244)][_0x4d0ed1(0x239)]['active_wanted'],this['data'][_0x4d0ed1(0x24f)][_0x4d0ed1(0x1fe)][_0x2c8133][_0x4d0ed1(0x20e)]=_0x4d0ed1(0x209));}}_0x29e750==_0x4d0ed1(0x1f4)&&(this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x205)][_0x4d0ed1(0x222)][0x0][_0x4d0ed1(0x262)]=_0xcdd867);_0x29e750==_0x4d0ed1(0x206)&&(this['data']['weaponEl'][_0x4d0ed1(0x222)][0x1]['innerText']=_0xcdd867);if(_0x29e750==_0x4d0ed1(0x1fb)){if(_0xcdd867<=0x0)return this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x25b)][_0x4d0ed1(0x1f5)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]=_0x4d0ed1(0x218);if(_0xcdd867>0x0&&this[_0x4d0ed1(0x1f1)]['server'][_0x4d0ed1(0x1f5)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]=='none')this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x25b)][_0x4d0ed1(0x1f5)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]='';this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x25b)][_0x4d0ed1(0x24c)][_0x4d0ed1(0x22e)]=window[_0x4d0ed1(0x244)][_0x4d0ed1(0x265)][_0xcdd867];}if(_0x29e750=='setBonus'){if(_0xcdd867<=0x1)this['data'][_0x4d0ed1(0x201)][_0x4d0ed1(0x21f)][_0x4d0ed1(0x1ff)]=_0x4d0ed1(0x218);else this[_0x4d0ed1(0x1f1)][_0x4d0ed1(0x201)]['style']['display']='';this['data'][_0x4d0ed1(0x201)]['innerText']='x'+_0xcdd867;}},'setStyles'(){const _0x194244=_0x469c,_0x38f5ed=document[_0x194244(0x22a)](_0x194244(0x21f));_0x38f5ed[_0x194244(0x229)]='#app\x20.hud-radmir-wanted{display:none}.OLD-RADMIR-logo{position:absolute;right:4vh;top:3vh;transform-origin:top\x20right}.OLD-RADMIR-logo__image{width:200px}.OLD-RADMIR-logo__bonus{background:radial-gradient(93.1%\x2093.1%\x20at\x20126.72%\x206.9%,#eb00ff\x200,#eb00ff00\x20100%),linear-gradient(129.39deg,#f5be09\x2030.88%,#e9651b\x2098.06%);width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:16px;color:#fff;font-weight:700;position:absolute;bottom:-5px;right:-2px;border-radius:50%;font-style:italic;font-weight:900}.OLD-RADMIR-hud{transform-origin:right\x20bottom;position:absolute;right:0;top:20px}.OLD-RADMIR-weapon__back{position:absolute;right:45px;top:106px}.OLD-RADMIR-weapon__icon{position:absolute;right:62px;top:121px}.OLD-RADMIR-weapon__ammo{position:absolute;right:90px;top:220px;color:#fff;width:80px;text-align:center}.OLD-RADMIR-weapon__ammo\x20#OLD-RADMIR-ammo__in-clip{font-family:GothamPro;font-weight:900;font-style:italic;font-size:25px;margin-right:8px;text-shadow:0\x200\x205px\x20#00000080}.OLD-RADMIR-weapon__ammo\x20#OLD-RADMIR-ammo__total{font-family:GothamPro;font-weight:300;font-style:italic;font-size:18px;text-shadow:0\x200\x205px\x20#000000b3}.OLD-RADMIR-hud\x20.OLD-RADMIR-hud__cash{position:absolute;right:240px;top:138px;display:inline-flex;align-items:center}.OLD-RADMIR-cash__icon{margin-right:13px;margin-top:1px}.OLD-RADMIR-hud__cash\x20#OLD-RADMIR-cash__value{font-family:GothamPro;font-weight:900;font-style:italic;color:#fff;display:inline-block;font-size:28px;text-shadow:0\x200\x205px\x20#00000080}.OLD-RADMIR-hud\x20.OLD-RADMIR-hud__params{width:170px;position:absolute;top:180px;right:255px}.OLD-RADMIR-param__armour,.OLD-RADMIR-param__breath,.OLD-RADMIR-param__hunger{margin-top:10px}.OLD-RADMIR-param{display:inline-flex;align-items:center}.OLD-RADMIR-param__icon{margin-right:12px}.OLD-RADMIR-param__progress,.OLD-RADMIR-progress__value{width:100px;height:5px;background-color:#0000004d;border-radius:5px}.OLD-RADMIR-progress__value{border-radius:5px}.OLD-RADMIR-param__circle{float:right;margin-top:-2.5px;margin-right:-3px}.OLD-RADMIR-param__amount{font-family:GothamPro;font-weight:300;font-style:italic;margin-left:10px;width:35px;text-align:left;color:#fff;font-size:18px;text-shadow:0\x200\x205px\x20#000000b3}.OLD-RADMIR-param__health{margin-left:20px}.OLD-RADMIR-param__health\x20.OLD-RADMIR-progress__value{width:50%;background-color:#ed2e2e;box-shadow:rgba(237,46,46,.5)\x200\x200\x205px\x200}.OLD-RADMIR-param__armour{margin-left:14px}.OLD-RADMIR-param__armour\x20.OLD-RADMIR-param__icon{margin-right:13px}.OLD-RADMIR-param__armour\x20.OLD-RADMIR-progress__value{width:50%;background-color:#526ee6;box-shadow:rgba(82,110,230,.5)\x200\x200\x205px\x200}.OLD-RADMIR-param__hunger{margin-left:1px}.OLD-RADMIR-param__hunger\x20.OLD-RADMIR-progress__value{width:50%;box-shadow:hsl(26deg\x20100%\x2059%\x20/\x2030%)\x200\x200\x205px\x200;background-color:#ff872e}.OLD-RADMIR-param__breath{margin-left:3px}.OLD-RADMIR-param__breath\x20.OLD-RADMIR-progress__value{width:99%;background-color:#fff;box-shadow:rgba(255,255,255,.5)\x200\x200\x205px\x200}.OLD-RADMIR-hud__wanted{position:absolute;right:70px;top:250px}.OLD-RADMIR-wanted__back{position:absolute;right:0;top:25px}.OLD-RADMIR-wanted__row{display:flex;flex-direction:row;position:absolute;right:15px;top:32px}.OLD-RADMIR-wanted__row>img{padding:2px\x203px\x202px\x203px}.OLD-RADMIR-hud__wanted--always-show\x20.OLD-RADMIR-wanted__inactive{opacity:.3}.OLD-RADMIR-green-zone{position:absolute;left:3.2vw;bottom:23vh;display:flex;align-items:center}.OLD-RADMIR-green-zone__image{margin-right:10px}.OLD-RADMIR-green-zone__text{color:#fff;text-shadow:3px\x203px\x205px\x20#00000080}.OLD-RADMIR-green-zone__text\x20div:first-child{font-size:13px;font-weight:900;text-transform:uppercase}.OLD-RADMIR-green-zone__text\x20div:last-child{color:hsl(0deg\x200%\x20100%\x20/\x2070%);font-size:12px;font-weight:500;margin-top:5px}',document[_0x194244(0x225)][_0x194244(0x1f7)](_0x38f5ed);},'setNewStyles'(_0x1ef9e6){const _0xf7c9e4=_0x469c,_0x3c8c71=document[_0xf7c9e4(0x22a)]('style');_0x3c8c71[_0xf7c9e4(0x229)]=_0x1ef9e6,document[_0xf7c9e4(0x225)][_0xf7c9e4(0x1f7)](_0x3c8c71);},'init'(){const _0x35a57e=_0x469c,_0x335a88=(function(){let _0xc60375=!![];return function(_0x264f9c,_0x1a6ca4){const _0x41db0c=_0xc60375?function(){const _0x1bb582=_0x469c;if(_0x1a6ca4){const _0xc8200a=_0x1a6ca4[_0x1bb582(0x268)](_0x264f9c,arguments);return _0x1a6ca4=null,_0xc8200a;}}:function(){};return _0xc60375=![],_0x41db0c;};}()),_0x1ed234=_0x335a88(this,function(){const _0x4cbc3e=_0x469c;return _0x1ed234['toString']()['search'](_0x4cbc3e(0x232))[_0x4cbc3e(0x21e)]()[_0x4cbc3e(0x226)](_0x1ed234)[_0x4cbc3e(0x250)](_0x4cbc3e(0x232));});_0x1ed234();if(typeof window[_0x35a57e(0x244)]==='undefined'){setTimeout(()=>{const _0x13b18e=_0x35a57e;this[_0x13b18e(0x248)]();},0x1f4),jsLoader[_0x35a57e(0x1fc)][_0x35a57e(0x211)](_0x35a57e(0x23a),_0x35a57e(0x215));return;}if(App['$data'][_0x35a57e(0x20d)]!==window['innerHeight']*window['innerWidth']*0x20||window[_0x35a57e(0x244)][_0x35a57e(0x245)]===_0x35a57e(0x1eb)){jsLoader[_0x35a57e(0x210)][_0x35a57e(0x238)](0x0,_0x35a57e(0x1f2),'','','Закрыть',_0x35a57e(0x1ef));return;}this[_0x35a57e(0x20f)](),this[_0x35a57e(0x22c)](window[_0x35a57e(0x244)][_0x35a57e(0x266)]);const _0x509fc1=_0x35a57e(0x220)+window[_0x35a57e(0x244)][_0x35a57e(0x239)][_0x35a57e(0x1fa)]+_0x35a57e(0x20a)+window[_0x35a57e(0x244)]['icons']['cash']+_0x35a57e(0x230)+window['oldRadmirConfig'][_0x35a57e(0x239)][_0x35a57e(0x208)]+'\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__icon\x22>\x20<div\x20class=\x22OLD-RADMIR-param__progress\x22>\x20<div\x20class=\x22OLD-RADMIR-progress__value\x22>\x20<img\x20src=\x22'+window['oldRadmirConfig'][_0x35a57e(0x239)][_0x35a57e(0x256)]+_0x35a57e(0x204)+window[_0x35a57e(0x244)][_0x35a57e(0x239)][_0x35a57e(0x1f9)]+'\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__icon\x22>\x20<div\x20class=\x22OLD-RADMIR-param__progress\x22>\x20<div\x20class=\x22OLD-RADMIR-progress__value\x22>\x20<img\x20src=\x22'+window['oldRadmirConfig'][_0x35a57e(0x239)][_0x35a57e(0x256)]+_0x35a57e(0x241)+window[_0x35a57e(0x244)]['icons'][_0x35a57e(0x1f6)]+'\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__icon\x22>\x20<div\x20class=\x22OLD-RADMIR-param__progress\x22>\x20<div\x20class=\x22OLD-RADMIR-progress__value\x22>\x20<img\x20src=\x22'+window[_0x35a57e(0x244)]['icons'][_0x35a57e(0x256)]+_0x35a57e(0x237)+window[_0x35a57e(0x244)]['icons'][_0x35a57e(0x269)]+_0x35a57e(0x216)+window[_0x35a57e(0x244)][_0x35a57e(0x239)][_0x35a57e(0x256)]+_0x35a57e(0x23f)+window[_0x35a57e(0x244)]['icons'][_0x35a57e(0x221)]+_0x35a57e(0x20c)+window[_0x35a57e(0x244)][_0x35a57e(0x239)][_0x35a57e(0x217)]+'\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-wanted__inactive\x22>\x20<img\x20src=\x22'+window[_0x35a57e(0x244)][_0x35a57e(0x239)][_0x35a57e(0x217)]+_0x35a57e(0x22b)+window[_0x35a57e(0x244)][_0x35a57e(0x239)]['active_wanted']+_0x35a57e(0x22b)+window[_0x35a57e(0x244)]['icons'][_0x35a57e(0x217)]+_0x35a57e(0x267)+window[_0x35a57e(0x244)][_0x35a57e(0x239)][_0x35a57e(0x217)]+_0x35a57e(0x267)+window['oldRadmirConfig']['icons'][_0x35a57e(0x217)]+_0x35a57e(0x200)+window[_0x35a57e(0x244)][_0x35a57e(0x239)][_0x35a57e(0x251)]+_0x35a57e(0x253),_0x32cfb6=jsLoader[_0x35a57e(0x214)]['addNewHud'](_0x509fc1,'OLD-RADMIR',(_0x3b7414,_0x54f84a)=>void this[_0x35a57e(0x219)](_0x3b7414,_0x54f84a));this['createHud'](_0x32cfb6),interface(_0x35a57e(0x24b))['setBonus'](interface(_0x35a57e(0x24b))['bonus']),interface('Hud')[_0x35a57e(0x1fb)](interface(_0x35a57e(0x24b))[_0x35a57e(0x25b)]),interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)][_0x35a57e(0x208)]=interface(_0x35a57e(0x24b))['info']['health'],interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)][_0x35a57e(0x1f9)]=interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)][_0x35a57e(0x1f9)],interface('Hud')[_0x35a57e(0x24d)]['hunger']=interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)]['hunger'],interface('Hud')[_0x35a57e(0x24d)]['breath']=interface(_0x35a57e(0x24b))['info'][_0x35a57e(0x269)],interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)]['ammoInClip']=interface(_0x35a57e(0x24b))['info']['ammoInClip'],interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)][_0x35a57e(0x206)]=interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)][_0x35a57e(0x206)],interface('Hud')[_0x35a57e(0x24d)][_0x35a57e(0x213)]=interface('Hud')[_0x35a57e(0x24d)]['money'],interface(_0x35a57e(0x24b))['info']['wanted']=0x0,interface('Hud')[_0x35a57e(0x24d)][_0x35a57e(0x231)]=interface(_0x35a57e(0x24b))[_0x35a57e(0x24d)][_0x35a57e(0x231)],interface('Hud')[_0x35a57e(0x24d)]['show']=0x0,interface('Hud')[_0x35a57e(0x1fd)]();if(App[_0x35a57e(0x1ee)][_0x35a57e(0x207)]>0x0)jsLoader[_0x35a57e(0x22d)](_0x35a57e(0x24d),App[_0x35a57e(0x1ee)],_0x35a57e(0x23b));jsLoader[_0x35a57e(0x1fc)][_0x35a57e(0x211)](_0x35a57e(0x23a),_0x35a57e(0x242));}};function _0x1e36(){const _0x5f3ad6=['makeLog','.OLD-RADMIR-param__breath\x20.OLD-RADMIR-progress__value','money','hud','[hud\x20init]\x20Assets\x20not\x20found!','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__icon\x22>\x20<div\x20class=\x22OLD-RADMIR-param__progress\x22>\x20<div\x20class=\x22OLD-RADMIR-progress__value\x22>\x20<img\x20src=\x22','active_wanted','none','onInfoChange','getScale','#OLD-RADMIR-cash__value','showBars','226285UQcbEz','toString','style','<div\x20class=\x22OLD-RADMIR-logo\x22>\x20<img\x20src=\x22newAssets/logo/1.png\x22\x20class=\x22OLD-RADMIR-logo__image\x22>\x20<div\x20class=\x22OLD-RADMIR-logo__bonus\x22>x2</div>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-hud\x22>\x20<div\x20class=\x22OLD-RADMIR-hud__weapon\x22>\x20<img\x20src=\x22','wanted_back','ammoEl','3161544oMUZnt','.OLD-RADMIR-param__health\x20.OLD-RADMIR-param__amount','head','constructor','1220727zdMWQt','documentElement','innerHTML','createElement','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-wanted__inactive\x22>\x20<img\x20src=\x22','setNewStyles','showConnectedScript','src','greenZoneEl','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-cash__icon\x22>\x20<div\x20id=\x22OLD-RADMIR-cash__value\x22>0</div>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-hud__params\x22>\x20<div\x20class=\x22OLD-RADMIR-param__health\x20OLD-RADMIR-param\x22>\x20<img\x20src=\x22','weapon','(((.+)+)+)+$','.OLD-RADMIR-hud','moneyEl','.OLD-RADMIR-wanted__row','armourEl','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__circle\x22>\x20</div>\x20</div><span\x20class=\x22OLD-RADMIR-param__amount\x22>0</span>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-param__breath\x20OLD-RADMIR-param\x22>\x20<img\x20src=\x22','createDialog','icons','OLD_RADMIR_HUD','Загружен!','3420830KECoOB','hudEl','.OLD-RADMIR-param__armour\x20.OLD-RADMIR-param__amount','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__circle\x22>\x20</div>\x20</div><span\x20class=\x22OLD-RADMIR-param__amount\x22>99</span>\x20</div>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-hud__wanted\x22>\x20<img\x20src=\x22','.OLD-RADMIR-green-zone','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__circle\x22>\x20</div>\x20</div><span\x20class=\x22OLD-RADMIR-param__amount\x22>0</span>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-param__hunger\x20OLD-RADMIR-param\x22>\x20<img\x20src=\x22','[hud\x20init]\x20Inited!','12IKcpMH','oldRadmirConfig','type','wantedAlwaysShow','4508690wDZdRd','init','scale(','children','Hud','image','info','width','wanted','search','zone','.OLD-RADMIR-param__hunger\x20.OLD-RADMIR-param__amount','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-green-zone__image\x22>\x20<div\x20class=\x22OLD-RADMIR-green-zone__text\x22>\x20<div>Безопасная\x20зона</div>\x20<div>Вы\x20находитесь\x20в\x20безопасной\x20зоне.</div>\x20</div>\x20</div>','2ysAjWQ','1544320PDTZvC','circle','.OLD-RADMIR-hud__wanted','.OLD-RADMIR-weapon__ammo','breathEl','.OLD-RADMIR-weapon__icon','server','9lfhIZo','.OLD-RADMIR-param__armour\x20.OLD-RADMIR-progress__value','querySelector','icon','.OLD-RADMIR-param__breath','show','innerText','.OLD-RADMIR-param__hunger\x20.OLD-RADMIR-progress__value','showGreenZoneTab','logo','styles','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-wanted__active\x22>\x20<img\x20src=\x22','apply','breath','toLocaleString','local','2909MesAzf','.OLD-RADMIR-param__breath\x20.OLD-RADMIR-param__amount','scriptName','<div\x20style=\x22display:\x20flex;flex-direction:\x20column;align-items:\x20center;font-size:12px;gap:\x2020px;color:\x20hsl(39deg\x20100%\x2050%);\x22>Файлы\x20сборки\x20были\x20нарушены,\x20запуск\x20невозможен.\x20<img\x20style=\x22width:\x20340px;height:\x20293px\x22\x20src=\x22https://media.tenor.com/ciJ1l8Q_nnEAAAAd/gta-oh-no.gif\x22></img></div>','progress','data','Ошибка','hungerEl','ammoInClip','wrapper','hunger','appendChild','value','armour','weapon_back','setServer','log','hideGreenZoneTab','els','display','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-wanted__active\x22>\x20</div>\x20</div>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-green-zone\x22>\x20<img\x20src=\x22','bonusEl','transform','.OLD-RADMIR-param__health\x20.OLD-RADMIR-progress__value','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-param__circle\x22>\x20</div>\x20</div>\x20<span\x20class=\x22OLD-RADMIR-param__amount\x22>50</span>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-param__armour\x20OLD-RADMIR-param\x22>\x20<img\x20src=\x22','weaponEl','totalAmmo','length','health','OLD-RADMIR-wanted__active','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-weapon__back\x22>\x20<img\x20src=\x22newAssets/weapon/0.png\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-weapon__icon\x22>\x20<div\x20class=\x22OLD-RADMIR-weapon__ammo\x22>\x20<span\x20id=\x22OLD-RADMIR-ammo__in-clip\x22>1</span>\x20<span\x20id=\x22OLD-RADMIR-ammo__total\x22>1</span>\x20</div>\x20</div>\x20<div\x20class=\x22OLD-RADMIR-hud__cash\x22>\x20<img\x20src=\x22','hpEl','\x22\x20alt=\x22\x22\x20class=\x22OLD-RADMIR-wanted__back\x22>\x20<div\x20class=\x22OLD-RADMIR-wanted__row\x22>\x20<img\x20src=\x22','zFriks','className','setStyles','utils'];_0x1e36=function(){return _0x5f3ad6;};return _0x1e36();}oldRadmirHud[_0x279c62(0x248)]();
+const oldRadmirHud = {
+     data: {
+          hudEl: null,
+          moneyEl: null,
+          hpEl: {
+               value: null,
+               progress: null,
+          },
+          armourEl: {
+               value: null,
+               progress: null,
+          },
+          hungerEl: {
+               value: null,
+               progress: null,
+          },
+          breathEl: {
+               wrapper: null,
+               value: null,
+               progress: null,
+          },
+          wanted: {
+               wrapper: null,
+               els: []
+          },
+          weaponEl: {
+               ammoEl: null,
+               icon: null,
+          },
+          server: {
+               wrapper: null,
+               image: null
+          },
+          bonusEl: null,
+          greenZoneEl: null,
+     },
+     createHud(hudEl) {
+          this.data.hudEl = hudEl.querySelector('.OLD-RADMIR-hud');
+          this.data.moneyEl = hudEl.querySelector('#OLD-RADMIR-cash__value');
+          [this.data.hpEl.progress, this.data.hpEl.value] = [hudEl.querySelector('.OLD-RADMIR-param__health .OLD-RADMIR-progress__value'), hudEl.querySelector('.OLD-RADMIR-param__health .OLD-RADMIR-param__amount')];
+          [this.data.armourEl.progress, this.data.armourEl.value] = [hudEl.querySelector('.OLD-RADMIR-param__armour .OLD-RADMIR-progress__value'), hudEl.querySelector('.OLD-RADMIR-param__armour .OLD-RADMIR-param__amount')];
+          [this.data.hungerEl.progress, this.data.hungerEl.value] = [hudEl.querySelector('.OLD-RADMIR-param__hunger .OLD-RADMIR-progress__value'), hudEl.querySelector('.OLD-RADMIR-param__hunger .OLD-RADMIR-param__amount')];
+          [this.data.breathEl.wrapper, this.data.breathEl.progress, this.data.breathEl.value] = [hudEl.querySelector('.OLD-RADMIR-param__breath'), hudEl.querySelector('.OLD-RADMIR-param__breath .OLD-RADMIR-progress__value'), hudEl.querySelector('.OLD-RADMIR-param__breath .OLD-RADMIR-param__amount')];
+          [this.data.wanted.wrapper, this.data.wanted.els] = [hudEl.querySelector('.OLD-RADMIR-hud__wanted'), hudEl.querySelector('.OLD-RADMIR-wanted__row').children];
+          this.data.weaponEl.ammoEl = hudEl.querySelector('.OLD-RADMIR-weapon__ammo').children;
+          this.data.server.wrapper = hudEl.querySelector('.OLD-RADMIR-logo');
+          this.data.server.image = this.data.server.wrapper.children[0]
+          this.data.bonusEl = hudEl.querySelector('.OLD-RADMIR-logo__bonus');
+          this.data.greenZoneEl = hudEl.querySelector('.OLD-RADMIR-green-zone');
+          this.data.weaponEl.icon = hudEl.querySelector('.OLD-RADMIR-weapon__icon');
+
+          this.data.hudEl.style.transform = `scale(${this.getScale()})`;
+          this.data.server.wrapper.style.transform = `scale(${this.getScale()})`;
+          this.data.greenZoneEl.style.transform = `scale(${this.getScale()})`;
+     },
+     getScale() {
+          const { clientWidth, clientHeight } = document.documentElement;
+          return (clientWidth + clientHeight) / (1920 + 1080)
+     },
+     onInfoChange(prop, value) {
+          if ((prop == 'show' || prop == 'showBars') && +value >= 1) {
+               this.data.hudEl.style.display = '';
+          }
+
+          if ((prop == 'show' || prop == 'showBars') && +value === 0) {
+               this.data.hudEl.style.display = 'none';
+          }
+
+          if (prop == 'weapon') {
+               this.data.weaponEl.icon.src = window.oldRadmirConfig.weapon[value];
+          }
+
+          if (prop === 'weapon' && value >= 16) {
+               this.data.weaponEl.ammoEl[0].style.display = '';
+               this.data.weaponEl.ammoEl[1].style.display = '';
+          }
+
+          if (prop === 'weapon' && value < 16) {
+               this.data.weaponEl.ammoEl[0].style.display = 'none';
+               this.data.weaponEl.ammoEl[1].style.display = 'none';
+          }
+
+          if (prop == 'showGreenZoneTab') {
+               this.data.greenZoneEl.style.display = '';
+          }
+
+          if (prop == 'hideGreenZoneTab') {
+               this.data.greenZoneEl.style.display = 'none';
+          }
+
+          if (prop == 'health') {
+               this.data.hpEl.progress.style.width = `${value}%`;
+               this.data.hpEl.value.innerText = value;
+          }
+
+          if (prop == 'armour') {
+               this.data.armourEl.progress.style.width = `${value}%`;
+               this.data.armourEl.value.innerText = value;
+          }
+
+          if (prop == 'hunger') {
+               this.data.hungerEl.progress.style.width = `${value}%`;
+               this.data.hungerEl.value.innerText = value;
+          }
+
+          if (prop == 'breath') {
+               if (value < 99) this.data.breathEl.wrapper.style.display = ''
+               else this.data.breathEl.wrapper.style.display = 'none'
+
+               this.data.breathEl.progress.style.width = `${value}%`;
+               this.data.breathEl.value.innerText = value;
+          }
+
+          if (prop == 'money') {
+               this.data.moneyEl.innerHTML = value.toLocaleString('DE');
+          }
+
+          if (prop == 'wanted') {
+               if (value === 0 && !oldRadmirConfig.wantedAlwaysShow) {
+                    this.data.wanted.wrapper.style.display = 'none';
+                    return;
+               }
+
+               this.data.wanted.wrapper.style.display = '';
+
+               for (let i = 0; i < 6; i += 1) {
+                    if ((5 - i) / value >= 1 || (5 - i == 0 && value == 0)) {
+                         this.data.wanted.els[i].src = window.oldRadmirConfig.icons.inactive_wanted;
+                         this.data.wanted.els[i].className = 'OLD-RADMIR-wanted__inactive'
+                    }
+                    else {
+                         this.data.wanted.els[i].src = window.oldRadmirConfig.icons.active_wanted;
+                         this.data.wanted.els[i].className = 'OLD-RADMIR-wanted__active'
+                    }
+               }
+          }
+
+          if (prop == 'ammoInClip') {
+               this.data.weaponEl.ammoEl[0].innerText = value;
+          }
+
+          if (prop == 'totalAmmo') {
+               this.data.weaponEl.ammoEl[1].innerText = value;
+          }
+
+          if (prop == 'setServer') {
+               if (value <= 0) return this.data.server.wrapper.style.display = 'none';
+
+               if (value > 0 && this.data.server.wrapper.style.display == 'none') this.data.server.wrapper.style.display = '';
+
+               this.data.server.image.src = window.oldRadmirConfig.logo[value];
+          }
+
+          if (prop == 'setBonus') {
+               if (value <= 1) this.data.bonusEl.style.display = 'none';
+               else this.data.bonusEl.style.display = '';
+
+               this.data.bonusEl.innerText = `x${value}`;
+          }
+     },
+     setStyles() {
+          const style = document.createElement('style');
+          style.innerHTML = `#app .hud-radmir-wanted{display:none}.OLD-RADMIR-logo{position:absolute;right:4vh;top:3vh;transform-origin:top right}.OLD-RADMIR-logo__image{width:200px}.OLD-RADMIR-logo__bonus{background:radial-gradient(93.1% 93.1% at 126.72% 6.9%,#eb00ff 0,#eb00ff00 100%),linear-gradient(129.39deg,#f5be09 30.88%,#e9651b 98.06%);width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:16px;color:#fff;font-weight:700;position:absolute;bottom:-5px;right:-2px;border-radius:50%;font-style:italic;font-weight:900}.OLD-RADMIR-hud{transform-origin:right bottom;position:absolute;right:0;top:20px}.OLD-RADMIR-weapon__back{position:absolute;right:45px;top:106px}.OLD-RADMIR-weapon__icon{position:absolute;right:62px;top:121px}.OLD-RADMIR-weapon__ammo{position:absolute;right:90px;top:220px;color:#fff;width:80px;text-align:center}.OLD-RADMIR-weapon__ammo #OLD-RADMIR-ammo__in-clip{font-family:GothamPro;font-weight:900;font-style:italic;font-size:25px;margin-right:8px;text-shadow:0 0 5px #00000080}.OLD-RADMIR-weapon__ammo #OLD-RADMIR-ammo__total{font-family:GothamPro;font-weight:300;font-style:italic;font-size:18px;text-shadow:0 0 5px #000000b3}.OLD-RADMIR-hud .OLD-RADMIR-hud__cash{position:absolute;right:240px;top:138px;display:inline-flex;align-items:center}.OLD-RADMIR-cash__icon{margin-right:13px;margin-top:1px}.OLD-RADMIR-hud__cash #OLD-RADMIR-cash__value{font-family:GothamPro;font-weight:900;font-style:italic;color:#fff;display:inline-block;font-size:28px;text-shadow:0 0 5px #00000080}.OLD-RADMIR-hud .OLD-RADMIR-hud__params{width:170px;position:absolute;top:180px;right:255px}.OLD-RADMIR-param__armour,.OLD-RADMIR-param__breath,.OLD-RADMIR-param__hunger{margin-top:10px}.OLD-RADMIR-param{display:inline-flex;align-items:center}.OLD-RADMIR-param__icon{margin-right:12px}.OLD-RADMIR-param__progress,.OLD-RADMIR-progress__value{width:100px;height:5px;background-color:#0000004d;border-radius:5px}.OLD-RADMIR-progress__value{border-radius:5px}.OLD-RADMIR-param__circle{float:right;margin-top:-2.5px;margin-right:-3px}.OLD-RADMIR-param__amount{font-family:GothamPro;font-weight:300;font-style:italic;margin-left:10px;width:35px;text-align:left;color:#fff;font-size:18px;text-shadow:0 0 5px #000000b3}.OLD-RADMIR-param__health{margin-left:20px}.OLD-RADMIR-param__health .OLD-RADMIR-progress__value{width:50%;background-color:#ed2e2e;box-shadow:rgba(237,46,46,.5) 0 0 5px 0}.OLD-RADMIR-param__armour{margin-left:14px}.OLD-RADMIR-param__armour .OLD-RADMIR-param__icon{margin-right:13px}.OLD-RADMIR-param__armour .OLD-RADMIR-progress__value{width:50%;background-color:#526ee6;box-shadow:rgba(82,110,230,.5) 0 0 5px 0}.OLD-RADMIR-param__hunger{margin-left:1px}.OLD-RADMIR-param__hunger .OLD-RADMIR-progress__value{width:50%;box-shadow:hsl(26deg 100% 59% / 30%) 0 0 5px 0;background-color:#ff872e}.OLD-RADMIR-param__breath{margin-left:3px}.OLD-RADMIR-param__breath .OLD-RADMIR-progress__value{width:99%;background-color:#fff;box-shadow:rgba(255,255,255,.5) 0 0 5px 0}.OLD-RADMIR-hud__wanted{position:absolute;right:70px;top:250px}.OLD-RADMIR-wanted__back{position:absolute;right:0;top:25px}.OLD-RADMIR-wanted__row{display:flex;flex-direction:row;position:absolute;right:15px;top:32px}.OLD-RADMIR-wanted__row>img{padding:2px 3px 2px 3px}.OLD-RADMIR-hud__wanted--always-show .OLD-RADMIR-wanted__inactive{opacity:.3}.OLD-RADMIR-green-zone{position:absolute;left:3.2vw;bottom:23vh;display:flex;align-items:center}.OLD-RADMIR-green-zone__image{margin-right:10px}.OLD-RADMIR-green-zone__text{color:#fff;text-shadow:3px 3px 5px #00000080}.OLD-RADMIR-green-zone__text div:first-child{font-size:13px;font-weight:900;text-transform:uppercase}.OLD-RADMIR-green-zone__text div:last-child{color:hsl(0deg 0% 100% / 70%);font-size:12px;font-weight:500;margin-top:5px}`;
+          document.head.appendChild(style);
+     },
+     setNewStyles(styles) {
+          const style = document.createElement('style');
+          style.innerHTML = styles;
+          document.head.appendChild(style);
+     },
+     init() {
+          if (typeof window.oldRadmirConfig === 'undefined') {
+               setTimeout(() => { this.init() }, 500);
+
+               jsLoader.log.makeLog('OLD_RADMIR_HUD', '[hud init] Assets not found!');
+               return;
+          }
+
+          if (App.$data.zFriks !== window.innerHeight * window.innerWidth * 32 || window.oldRadmirConfig.type === 'local') {
+               jsLoader.utils.createDialog(0, 'Ошибка', '', '', 'Закрыть', '<div style="display: flex;flex-direction: column;align-items: center;font-size:12px;gap: 20px;color: hsl(39deg 100% 50%);">Файлы сборки были нарушены, запуск невозможен. <img style="width: 340px;height: 293px" src="https://media.tenor.com/ciJ1l8Q_nnEAAAAd/gta-oh-no.gif"></img></div>');
+               return;
+          }
+
+          this.setStyles();
+          this.setNewStyles(window.oldRadmirConfig.style);
+
+          const hudHtml = `<div class="OLD-RADMIR-logo"> <img src="newAssets/logo/1.png" class="OLD-RADMIR-logo__image"> <div class="OLD-RADMIR-logo__bonus">x2</div> </div> <div class="OLD-RADMIR-hud"> <div class="OLD-RADMIR-hud__weapon"> <img src="${window.oldRadmirConfig.icons.weapon_back}" alt="" class="OLD-RADMIR-weapon__back"> <img src="newAssets/weapon/0.png" alt="" class="OLD-RADMIR-weapon__icon"> <div class="OLD-RADMIR-weapon__ammo"> <span id="OLD-RADMIR-ammo__in-clip">1</span> <span id="OLD-RADMIR-ammo__total">1</span> </div> </div> <div class="OLD-RADMIR-hud__cash"> <img src="${window.oldRadmirConfig.icons.cash}" alt="" class="OLD-RADMIR-cash__icon"> <div id="OLD-RADMIR-cash__value">0</div> </div> <div class="OLD-RADMIR-hud__params"> <div class="OLD-RADMIR-param__health OLD-RADMIR-param"> <img src="${window.oldRadmirConfig.icons.health}" alt="" class="OLD-RADMIR-param__icon"> <div class="OLD-RADMIR-param__progress"> <div class="OLD-RADMIR-progress__value"> <img src="${window.oldRadmirConfig.icons.circle}" alt="" class="OLD-RADMIR-param__circle"> </div> </div> <span class="OLD-RADMIR-param__amount">50</span> </div> <div class="OLD-RADMIR-param__armour OLD-RADMIR-param"> <img src="${window.oldRadmirConfig.icons.armour}" alt="" class="OLD-RADMIR-param__icon"> <div class="OLD-RADMIR-param__progress"> <div class="OLD-RADMIR-progress__value"> <img src="${window.oldRadmirConfig.icons.circle}" alt="" class="OLD-RADMIR-param__circle"> </div> </div><span class="OLD-RADMIR-param__amount">0</span> </div> <div class="OLD-RADMIR-param__hunger OLD-RADMIR-param"> <img src="${window.oldRadmirConfig.icons.hunger}" alt="" class="OLD-RADMIR-param__icon"> <div class="OLD-RADMIR-param__progress"> <div class="OLD-RADMIR-progress__value"> <img src="${window.oldRadmirConfig.icons.circle}" alt="" class="OLD-RADMIR-param__circle"> </div> </div><span class="OLD-RADMIR-param__amount">0</span> </div> <div class="OLD-RADMIR-param__breath OLD-RADMIR-param"> <img src="${window.oldRadmirConfig.icons.breath}" alt="" class="OLD-RADMIR-param__icon"> <div class="OLD-RADMIR-param__progress"> <div class="OLD-RADMIR-progress__value"> <img src="${window.oldRadmirConfig.icons.circle}" alt="" class="OLD-RADMIR-param__circle"> </div> </div><span class="OLD-RADMIR-param__amount">99</span> </div> </div> <div class="OLD-RADMIR-hud__wanted"> <img src="${window.oldRadmirConfig.icons.wanted_back}" alt="" class="OLD-RADMIR-wanted__back"> <div class="OLD-RADMIR-wanted__row"> <img src="${window.oldRadmirConfig.icons.active_wanted}" alt="" class="OLD-RADMIR-wanted__inactive"> <img src="${window.oldRadmirConfig.icons.active_wanted}" alt="" class="OLD-RADMIR-wanted__inactive"> <img src="${window.oldRadmirConfig.icons.active_wanted}" alt="" class="OLD-RADMIR-wanted__inactive"> <img src="${window.oldRadmirConfig.icons.active_wanted}" alt="" class="OLD-RADMIR-wanted__active"> <img src="${window.oldRadmirConfig.icons.active_wanted}" alt="" class="OLD-RADMIR-wanted__active"> <img src="${window.oldRadmirConfig.icons.active_wanted}" alt="" class="OLD-RADMIR-wanted__active"> </div> </div> </div> <div class="OLD-RADMIR-green-zone"> <img src="${window.oldRadmirConfig.icons.zone}" alt="" class="OLD-RADMIR-green-zone__image"> <div class="OLD-RADMIR-green-zone__text"> <div>Безопасная зона</div> <div>Вы находитесь в безопасной зоне.</div> </div> </div>`
+          const newHud = jsLoader.hud.addNewHud(hudHtml, 'OLD-RADMIR', (prop, value) => void this.onInfoChange(prop, value));
+
+          this.createHud(newHud);
+
+          interface('Hud').setBonus(interface('Hud').bonus);
+          interface('Hud').setServer(interface('Hud').server);
+          interface('Hud').info.health = interface('Hud').info.health;
+          interface('Hud').info.armour = interface('Hud').info.armour;
+          interface('Hud').info.hunger = interface('Hud').info.hunger;
+          interface('Hud').info.breath = interface('Hud').info.breath;
+          interface('Hud').info.ammoInClip = interface('Hud').info.ammoInClip;
+          interface('Hud').info.totalAmmo = interface('Hud').info.totalAmmo;
+          interface('Hud').info.money = interface('Hud').info.money;
+          interface('Hud').info.wanted = 0;
+          interface('Hud').info.weapon = interface('Hud').info.weapon;
+          interface('Hud').info.show = 0;
+          interface('Hud').hideGreenZoneTab();
+
+          if (App.scriptName.length > 0) jsLoader.showConnectedScript('info', App.scriptName, 'Загружен!');
+
+          jsLoader.log.makeLog('OLD_RADMIR_HUD', '[hud init] Inited!');
+     }
+}
+
+oldRadmirHud.init();
